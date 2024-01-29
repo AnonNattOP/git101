@@ -6,4 +6,5 @@ int main()
     // cout : console output
                             //end : end line '\n'
     cout <<"Love C++" << endl;
+    cout <<"Hello git C++" << endl;
 }
