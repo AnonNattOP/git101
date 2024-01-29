@@ -1,0 +1,2 @@
+This is mian1.txt 
+Python is also hard as hell too like the C language.
